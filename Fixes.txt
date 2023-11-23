@@ -1,0 +1,38 @@
+LINE 3:
+Missing hash and unmatched quotes in querySelector.
+Found using eyes (and little red underline).
+
+LINE 4:
+No hash in front of ‘city’. Also querySelector misspelled.
+Looking through the code.
+
+LINE 5:
+No hash or dot in front of temp in querySelector.
+Looking through the code.
+
+LINE 6.
+Samesies for ‘message’.
+
+LINE 17:
+Missing ‘main’ with dot notation after ‘data’. Missing needed Math.floor.
+Got a NaN on the temperature display. Console.logged the data variable to double check structure of the json object, noticed that the main subcategory was missing. Added Math.floor to remove the bazillion zeroes.
+
+LINE 19:
+Wrong kind of quotes around the variable insert.
+I saw that the $ was the wrong color.
+
+LINE 28:
+Assume that the greater than sign should be a lesser than sign.
+Looking through the code.
+
+LINE 39:
+Missing parentheses around ‘e’ variable. 
+Found with red underline.
+
+LINE 41:
+No e before ‘preventDefault’.
+Looking through the code.
+
+
+
+
