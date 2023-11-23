@@ -14,8 +14,10 @@ LINE 6.
 Samesies for ‘message’.
 
 LINE 17:
-Missing ‘main’ with dot notation after ‘data’. Missing needed Math.floor.
-Got a NaN on the temperature display. Console.logged the data variable to double check structure of the json object, noticed that the main subcategory was missing. Added Math.floor to remove the bazillion zeroes.
+Missing ‘main’ with dot notation after ‘data’. Missing needed Math.round.
+Got a NaN on the temperature display. Console.logged the data variable to 
+double check structure of the json object, noticed that the main subcategory was missing. 
+Added Math.round to remove the bazillion zeroes.
 
 LINE 19:
 Wrong kind of quotes around the variable insert.
